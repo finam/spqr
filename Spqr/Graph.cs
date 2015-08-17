@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Spqr {
-	class Graph {
+	internal class Graph {
 		public List<Node> Nodes { get; private set; }
 		public List<Edge> Edges { get; private set; }
 	}

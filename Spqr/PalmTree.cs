@@ -2,7 +2,7 @@
 
 namespace Spqr
 {
-	class PalmTree
+	internal class PalmTree
 	{
 		public PalmTree(Node root)
 		{

@@ -48,8 +48,10 @@
     <Compile Include="Graph.cs" />
     <Compile Include="Node.cs" />
     <Compile Include="PalmTree.cs" />
+    <Compile Include="PathSearcher.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SepTriple.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

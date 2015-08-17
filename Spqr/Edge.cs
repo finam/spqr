@@ -6,3 +6,4 @@
 		public Node Node2 { get; set; }
 	}
 }
+
